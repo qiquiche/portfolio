@@ -3720,8 +3720,8 @@ body {
   color: #767676;
 }
 .cid-qHfzF9hWNc {
-  padding-top: 0px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 60px;
   background: #ffffff;
 }
 .cid-qHfzF9hWNc .image-block {
@@ -3776,12 +3776,11 @@ body {
   color: #797979;
 }
 .cid-qH0IdkG6qF {
-  padding-top: 15px;
-  padding-bottom: 30px;
   background: #ffffff;
 }
 .cid-qH0IdkG6qF .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-qH0IdkG6qF .mbr-figure {
   margin: 0 auto;
