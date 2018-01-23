@@ -31,10 +31,10 @@ body {
 }
 .display-2 {
   font-family: 'Volkhov', serif;
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 4.8rem;
 }
 .display-4 {
   font-family: 'Lato', sans-serif;
@@ -69,9 +69,9 @@ body {
     line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -135,10 +135,10 @@ body {
   background-color: #82786e !important;
 }
 .bg-success {
-  background-color: #97acab !important;
+  background-color: #c1c1c1 !important;
 }
 .bg-info {
-  background-color: #00b46a !important;
+  background-color: #6e8f82 !important;
 }
 .bg-warning {
   background-color: #05d295 !important;
@@ -188,8 +188,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #00b46a;
-  border-color: #00b46a;
+  background-color: #6e8f82;
+  border-color: #6e8f82;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -197,19 +197,19 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff;
-  background-color: #00683d;
-  border-color: #00683d;
+  background-color: #4d645b;
+  border-color: #4d645b;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #00683d !important;
-  border-color: #00683d !important;
+  background-color: #4d645b !important;
+  border-color: #4d645b !important;
 }
 .btn-success,
 .btn-success:active {
-  background-color: #97acab;
-  border-color: #97acab;
+  background-color: #c1c1c1;
+  border-color: #c1c1c1;
   color: #ffffff;
 }
 .btn-success:hover,
@@ -217,14 +217,14 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: #ffffff;
-  background-color: #6d8988;
-  border-color: #6d8988;
+  background-color: #9b9b9b;
+  border-color: #9b9b9b;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #6d8988 !important;
-  border-color: #6d8988 !important;
+  background-color: #9b9b9b !important;
+  border-color: #9b9b9b !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -352,42 +352,42 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #004e2e;
-  color: #004e2e;
+  border-color: #42554e;
+  color: #42554e;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #00b46a;
-  border-color: #00b46a;
+  background-color: #6e8f82;
+  border-color: #6e8f82;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #00b46a !important;
-  border-color: #00b46a !important;
+  background-color: #6e8f82 !important;
+  border-color: #6e8f82 !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #627b7a;
-  color: #627b7a;
+  border-color: #8e8e8e;
+  color: #8e8e8e;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
   color: #ffffff;
-  background-color: #97acab;
-  border-color: #97acab;
+  background-color: #c1c1c1;
+  border-color: #c1c1c1;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #97acab !important;
-  border-color: #97acab !important;
+  background-color: #c1c1c1 !important;
+  border-color: #c1c1c1 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -470,10 +470,10 @@ body {
   color: #ff6f02 !important;
 }
 .text-success {
-  color: #97acab !important;
+  color: #c1c1c1 !important;
 }
 .text-info {
-  color: #00b46a !important;
+  color: #6e8f82 !important;
 }
 .text-warning {
   color: #05d295 !important;
@@ -497,11 +497,11 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #627b7a !important;
+  color: #8e8e8e !important;
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #004e2e !important;
+  color: #42554e !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -523,7 +523,7 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #00b46a;
+  background-color: #6e8f82;
 }
 .alert-warning {
   background-color: #05d295;
@@ -567,11 +567,11 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #dee5e4;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #35ffac;
+  color: #b6c7c0;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -1392,7 +1392,7 @@ body {
 }
 .cid-qHrHlk9MX5 {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-qHrHlk9MX5 .mbr-text,
@@ -2411,6 +2411,9 @@ body {
     width: 100% !important;
   }
 }
+.cid-qHm309rDea DIV {
+  text-align: center;
+}
 .cid-qHm8Bj8Z39 {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -2746,6 +2749,9 @@ body {
   .cid-qHmsMpIVsY .image-block {
     width: 100% !important;
   }
+}
+.cid-qHmsMpIVsY DIV {
+  text-align: center;
 }
 .cid-qHm2VTemxg {
   padding-top: 15px;
@@ -3111,6 +3117,9 @@ body {
   .cid-qHmDHSoRhx .image-block {
     width: 100% !important;
   }
+}
+.cid-qHmDHSoRhx DIV {
+  text-align: center;
 }
 .cid-qHmVWq0qGd {
   padding-top: 60px;
@@ -7899,6 +7908,9 @@ body {
     width: 100% !important;
   }
 }
+.cid-qHn9HNCkDZ DIV {
+  text-align: center;
+}
 .cid-qHgtDV399d {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -7928,6 +7940,9 @@ body {
   .cid-qHn5gEyWmZ .image-block {
     width: 100% !important;
   }
+}
+.cid-qHn5gEyWmZ DIV {
+  text-align: center;
 }
 .cid-qHgGX5mrS2 {
   padding-top: 45px;
