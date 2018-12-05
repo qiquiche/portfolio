@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Qiqi Xu - Digital Product Designer",
-    "currentPage": "index.html",
+    "currentPage": "nextdoor.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 317,
+    "uniqCompNum": 321,
     "versionPublish": "4.8.6",
     "theme": {
       "name": "mobirise4",
@@ -31,13 +31,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#f6f6f6",
         "#1a1b22",
         "#2e2e2e",
         "#00c557",
         "#4a90e2",
         "#00e799",
-        "#00dee7",
-        "#965ab8"
+        "#00dee7"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -10014,7 +10014,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b><i>Timeline</i></b>: May - August, 2018<div><b><i>Role</i></b>: Product Design Intern</div><div><b><i>Function</i></b>: Product &nbsp;&amp; Experience Design, Communication Design</div><div><b><i>Tools</i></b>: Pen &amp; paper, Sketch, Illustrator, Invision, Origami Studio</div><div><br></div><div><a href=\"http://nextdoor.com\" class=\"text-info\">Nextdoor</a> is a private social network that brings neighbors together to form stronger communities. As an intern, I was given a tremendous amount of responsibility to work as the sole designer on the Real Estate team. I collaborated closely with product and engineering on my team to ship new features for users to compare their homes to similar properties and refine the agent-side experience. My time here has pushed my system-thinking, execution ability, and gave me valuable insights into the delicate balance between user and business needs.</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b><i>Timeline</i></b>: May - August, 2018<div><b><i>Role</i></b>: Product Design Intern</div><div><b><i>Function</i></b>: Product &nbsp;&amp; Experience Design, Communication Design</div><div><b><i>Tools</i></b>: Pen &amp; paper, Sketch, Illustrator, Invision, Origami Studio</div><div><br></div><div><a href=\"http://nextdoor.com\" class=\"text-info\">Nextdoor</a> is a private social network that brings neighbors together to form stronger communities. I joined as the sole designer on the Real Estate team and collaborated closely with product and engineering to ship new features for users to compare their homes to similar properties and refine the agent-side experience. My time here has pushed my system-thinking and execution ability, and I gained valuable insights into the delicate balance between user and business needs.</div></div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "r6P1hBuZ2B",
           "_anchor": "content1-7r",
@@ -10110,10 +10110,84 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>The Real Estate section attracts agents a hyperlocalized reach to homeowners to drive sell-side leads. When I started my internship, Nextdoor just signed a partnership with HouseCanary, a real estate data and analytics provider. With access to broader coverage of listings in the US and intelligent AVM information provided by HouseCanary, we hypothesized that the listing-specific analytics would provide more value to members and drive more engagement, which would then lead agents to find Nextdoor Real Estate more valuable.&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>Nextdoor is at a unique position in the real estate industry - with 70% of our verified members being homeowners (in the US), agents can share their local expertise with and gain exposure in neighbors targeted zips. Below is a quick illustration of how the Real Estate product works for members and agents.</div></div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "r6P1hCx4lA",
           "_anchor": "content1-7t",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/slice-1730x428.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    Create awesome websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-8t",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rbn5qWSbD8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#797979"
+            },
+            ".mbr-text DIV": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>When I joined the team, Nextdoor just signed a partnership with HouseCanary, a real estate data and analytics provider. The team aimed to inform and educate homeowners and buyers with valuable local insights that enable them to make the best possible real estate and home renovation decisions. With a more active and informed audience, agents can use Nextdoor as the most targeted platform to share local market knowledge and establish themselves as the trusted local resources in real estate transactions.&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-8u",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rbnkQhvFIl",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -10152,61 +10226,22 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".counter-container": {
-              "color": "#767676",
-              "ul": {
-                "margin-bottom": "0",
-                "li": {
-                  "margin-bottom": "1rem",
-                  "& when (@stylizedCounters)": {
-                    "list-style": "none",
-                    "&:before": {
-                      "position": "absolute",
-                      "left": "0px",
-                      "margin-top": "-10px",
-                      "padding-top": "3px",
-                      "content": "''",
-                      "display": "inline-block",
-                      "text-align": "center",
-                      "margin": "5px 10px",
-                      "line-height": "20px",
-                      "transition": "all .2s",
-                      "color": "contrast(@counterColor)",
-                      "background": "@counterColor",
-                      "width": "25px",
-                      "height": "25px",
-                      "border-radius": "50%",
-                      "& when (@countersType = 'circle')": {
-                        "background": "none",
-                        "border": "1px solid @counterColor",
-                        "color": "@counterColor"
-                      },
-                      "& when (@countersType = 'square')": {
-                        "border-radius": "0"
-                      },
-                      "& when (@mark)": {
-                        "content": "'✓'"
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            ".mbr-text UL": {
-              "color": "#232323"
+            ".mbr-text, blockquote": {
+              "color": "#767676"
             },
             ".mbr-text P": {
-              "color": "#232323"
+              "color": "#797979"
             },
             ".mbr-text DIV": {
               "color": "#232323"
             }
           },
-          "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#cccccc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\">Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\" selected>Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <div>Newly onboarded to the team, I took this research as an opportunity to understand not only the members, but also the agents that are paying for our real estate product. Aspiring to combine a human-centered and data-driven approach to design, I set out to understand the below:</div><ul>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><font color=\"#232323\">My research process is a blend of human-centric and data-driven approaches. The overall goal is to identify <b>what</b> data should be shown, <b>where</b> on the product is the data best integrated, and <b>how</b> should the right data be presented. &nbsp;</font></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-8v",
           "_isUserblock": true,
-          "_cid": "r6P1hF9mU3",
-          "_anchor": "content12-7x",
+          "_sourceTheme": "mobirise4",
+          "_cid": "rbnmvIYx1z",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -10228,7 +10263,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b>People</b> / Members<div>What information do members look for while browsing listings? What's the use cases for homeowners, renters, buyers? If we show comparisons of the listing and the member's home, will they find that useful? Will they have privacy concerns? &nbsp;</div><div><br></div><div><b>People</b> / Agents&nbsp;</div><div>Agents: How do agents feel about having third-party AVM information on listings? Is there any implication on the business side of things?</div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b>Data</b> / Platforms &nbsp;<div>What's the breakdown of the listing page views from desktop and mobile? Do members get to the listing view from the real estate section map or the news feed? How long do they usually stay on a listing page?</div><div><br></div><div><b>Data</b> / Quality</div><div>What's the coverage of data provided by HouseCanary? How accurate is the data? How inconsistent is it with listings we obtained from other MLS?</div></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b>People</b> / Members<div>I prepared two different mockups and interviewed users to find out 1) the information they value on a listing page 2) the different the use cases of home valuation for homeowners, renters, buyers, and 3) what sets Nextdoor apart from other real estate websites.&nbsp;</div><div><br></div><div><b>People</b> / Agents&nbsp;</div><div>I spoke with customer support to learn about how agents feel about having third-party home valuations on listings to ensure it won't hurt the business.</div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b>Data</b> / Platforms &nbsp;<div>I looked into the breakdown of the listing page views from desktop and mobile and how members are getting to the listings (from the section map, news feed, or email).&nbsp;</div><div><br></div><div><b>Data</b> / Quality</div><div>As a data science major, I knew the nature of data we are working with is important. Figuring out the coverage and quality of the data provided by HouseCanary informed the design of error state and use of language.</div></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r6QBDayvsb",
           "_anchor": "content3-8r",
           "_protectedParams": [],
@@ -10299,7 +10334,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>Problem Statement / How do we integrate the right real estate data and insights into the right context to help members find the information they are looking for easily, and provide more value to agents?&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>Problem Statement / How do we integrate the right real estate data into the right context to inform and hence enable members to make better real estate decisions?&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r6P1hDLIZ0",
@@ -10350,7 +10385,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Naturally, the team wanted to want to highlight the home comparison on the listing page as it is a unique competitive advantage - Nextdoor users can easily see the difference in size, amenities, worth between their property and the listing in seconds. However, as I explored many variations to combine both the information of the listing and the comparison to the user's home into the listing page, it became evident that would mean compromising a clean design and potentially turn away our users who came to see listings on Nextdoor for a less overwhelming browsing experience. Below are some of the explorations.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Naturally, the team wanted to want to highlight the home comparison on the listing page as it is a unique competitive advantage - Nextdoor users can easily see the difference in size, amenities, worth between their property and the listing in seconds. However, as I explored many variations to combine both the information of the listing and the comparison to the user's home into the listing page, it became evident that would mean compromising a clean design and potentially turn away our users who came to see listings on Nextdoor for a less overwhelming browsing experience. Below are some of the explorations of expressing the same information - from sophisticated data visualizations to simple natural language.&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "r6P1hI1MtI",
           "_anchor": "content1-80",
@@ -10454,7 +10489,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>To accommodate different personas and keep the design of the listing page clean and straightforward, I decoupled the AVM information and the Comparison tool. The listing page contains only listing-specific pricing and forecasts to satisfy both buyers' and sellers' need for essential details of the listing. Members that are interested in seeing the difference have the option to navigate to the comparison tool to learn how their properties square up to the listing that they are viewing.&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>To accommodate different personas and keep the design of the listing page clean and straightforward, I decoupled the home valuation and the Comparison tool. The listing page contains only listing-specific pricing and forecasts to satisfy both buyers' and sellers' need for essential details of the listing. Members that are interested in seeing the difference have the option to navigate to the comparison tool to learn how their properties square up to the listing that they are viewing.&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-8s",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -10631,7 +10666,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>With a larger coverage of real estate listings and our unique home comparison tool, the real estate section has seen an increase in traffic and engagement after the launch of the new feature. See one of the press coverage of this launch <a href=\"https://www.forbes.com/sites/jennawang/2018/07/20/nextdoor-introduces-property-valuation-tools-with-housecanary/#1a65db97159c\" target=\"_blank\" class=\"text-info\">here</a>. &nbsp;</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>With a larger coverage of real estate listings and our unique home comparison tool, the real estate section has seen an increase in traffic and engagement after the launch of the new feature. See one of the press articles on this launch <a href=\"https://www.forbes.com/sites/jennawang/2018/07/20/nextdoor-introduces-property-valuation-tools-with-housecanary/#1a65db97159c\" target=\"_blank\" class=\"text-info\">here</a>. &nbsp;</div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-97",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -10681,7 +10716,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><font color=\"#232323\">Since Real Estate was a rather new vertical on Nextdoor, the section map was very much a MVP with lots of room for improvement. I proactively worked on a collection of projects to enhance the map.</font></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><font color=\"#232323\">Since Real Estate was a rather new product vertical on Nextdoor, the section map was very much an MVP with lots of room for improvement. I proactively worked on a collection of projects to enhance the section map.</font></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-9b",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
