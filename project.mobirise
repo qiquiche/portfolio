@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Qiqi Xu - Digital Product Designer",
-    "currentPage": "nextdoor.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 321,
+    "uniqCompNum": 317,
     "versionPublish": "4.8.6",
     "theme": {
       "name": "mobirise4",
@@ -31,13 +31,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#f6f6f6",
         "#1a1b22",
         "#2e2e2e",
         "#00c557",
         "#4a90e2",
         "#00e799",
-        "#00dee7"
+        "#00dee7",
+        "#965ab8"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -76,7 +76,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Qiqi Xu - Product Designer",
         "meta_descr": "Qiqi Xu - Digital Product and Experience designer.",
         "header_custom": "",
         "footer_custom": "",
