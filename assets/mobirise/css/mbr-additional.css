@@ -36,10 +36,10 @@ body {
 }
 .display-4 {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.76rem;
 }
 .display-5 {
   font-family: 'Volkhov', serif;
@@ -72,9 +72,9 @@ body {
     line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.12rem;
@@ -1453,6 +1453,9 @@ body {
 .cid-r6OMOblPlw H3 {
   color: #ffffff;
 }
+.cid-r6OMOblPlw H1 {
+  color: #ffffff;
+}
 .cid-qIpXoJlttE {
   padding-top: 90px;
   padding-bottom: 75px;
@@ -1875,7 +1878,7 @@ body {
 }
 .cid-qGTGVERYBC .nav-link:hover,
 .cid-qGTGVERYBC .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-qGUeKkHmkf {
   padding-top: 90px;
@@ -3223,7 +3226,7 @@ body {
 }
 .cid-r7RDnoy4LN .nav-link:hover,
 .cid-r7RDnoy4LN .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-qGTGVERYBC .navbar {
   background: #ffffff;
@@ -3612,7 +3615,7 @@ body {
 }
 .cid-qGTGVERYBC .nav-link:hover,
 .cid-qGTGVERYBC .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-qH0BrG2JRK {
   padding-top: 120px;
@@ -5447,7 +5450,7 @@ body {
 }
 .cid-r7RDdhBcOF .nav-link:hover,
 .cid-r7RDdhBcOF .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-reNLDUbpYH .navbar {
   background: #ffffff;
@@ -5836,7 +5839,7 @@ body {
 }
 .cid-reNLDUbpYH .nav-link:hover,
 .cid-reNLDUbpYH .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-qGTImrQB3w {
   padding-top: 105px;
@@ -6403,7 +6406,7 @@ body {
 }
 .cid-r7RDBx0DdQ .nav-link:hover,
 .cid-r7RDBx0DdQ .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-qHh1yxGvnD {
   padding-top: 120px;
@@ -6893,7 +6896,7 @@ body {
 }
 .cid-r7RE1ovDy5 .nav-link:hover,
 .cid-r7RE1ovDy5 .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-qHi0qq8oL2 {
   padding-top: 120px;
@@ -7519,7 +7522,7 @@ body {
 }
 .cid-r7RE9SqWtM .nav-link:hover,
 .cid-r7RE9SqWtM .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-qHgjgwzJZJ {
   padding-top: 120px;
@@ -8210,7 +8213,7 @@ body {
 }
 .cid-r7RDqn8zWj .nav-link:hover,
 .cid-r7RDqn8zWj .dropdown-item:hover {
-  color: #00dee7 !important;
+  color: #149dcc !important;
 }
 .cid-r7RCP4GyB5 .navbar {
   background: #ffffff;
@@ -8898,6 +8901,33 @@ body {
 .cid-r6QCqC8giu .mbr-text DIV {
   color: #232323;
 }
+.cid-r6QvBRSJmm {
+  background: #ffffff;
+}
+.cid-r6QvBRSJmm .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r6QvBRSJmm .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r6QvBRSJmm figcaption {
+  position: relative;
+}
+.cid-r6QvBRSJmm figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r6QvBRSJmm .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r6QvBRSJmm DIV {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-r7ctpmE8Kt {
   background: #ffffff;
 }
@@ -8927,33 +8957,6 @@ body {
 }
 .cid-r7ctpmE8Kt B {
   color: #232323;
-}
-.cid-r6QvBRSJmm {
-  background: #ffffff;
-}
-.cid-r6QvBRSJmm .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-r6QvBRSJmm .mbr-figure {
-  margin: 0 auto;
-}
-.cid-r6QvBRSJmm figcaption {
-  position: relative;
-}
-.cid-r6QvBRSJmm figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-r6QvBRSJmm .image-block {
-    width: 100% !important;
-  }
-}
-.cid-r6QvBRSJmm DIV {
-  color: #ffffff;
-  text-align: center;
 }
 .cid-r71ZnuXTto {
   padding-top: 15px;
@@ -9091,11 +9094,12 @@ body {
   text-align: left;
 }
 .cid-r72idmV1yf {
+  padding-top: 30px;
+  padding-bottom: 45px;
   background: #00c557;
 }
 .cid-r72idmV1yf .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-r72idmV1yf .mbr-figure {
   margin: 0 auto;
